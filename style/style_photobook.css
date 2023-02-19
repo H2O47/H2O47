@@ -6,6 +6,7 @@ body {
     /*background-color: #4d4d4d;*/
 
     margin: 0;
+
 }
 
 *,
@@ -21,8 +22,10 @@ body {
     max-width: 1920px;
     background-color: #4d4d4d;
 
-
 }
+
+
+
 
 .header {
 
@@ -32,7 +35,7 @@ body {
     margin: 0;
 
 
-    margin-bottom: 75px;
+
     background-color: #4d4d4d;
     box-shadow: 0px 9px 29px 0px rgba(0, 0, 0, 0.4);
 }
@@ -98,63 +101,27 @@ body {
     color: #009cff;
 }
 
-
-
-/*
-.nav1_studio {
-    position: absolute;
-    bottom: 20px;
-    left: 50%;
-    margin-left: -200px;
-
-
-}
-
-
-.nav1_img {
-    position: absolute;
-    bottom: 30px;
-    left: 50%;
-    margin-left: -13px;
-}
-
-.nav1_Design {
-    position: absolute;
-    bottom: 20px;
-    right: 50%;
-    margin-right: -200px;
-
-}
-
-.logo {
-    margin: 0;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 70px;
-    font-weight: 700;
-    color: #009cff;
-}
-
-*/
 .nav2 {
     display: flex;
     width: 25%;
     justify-content:space-around;
     align-items: flex-end;
 
+
+}
+/*main*/
+.blockpage {
+    margin: -20px auto 0px;
+
+    width: 90%;
+    background-color: #8d8b8b;
+    box-shadow: 0px 9px 29px 0px rgba(0, 0, 0, 0.4);
 }
 
 
 
 
 
-
-
-
-.main {
-    width: auto;
-    position: relative;
-
-}
 
 .block_left {
     display: block;
